@@ -1,0 +1,116 @@
+html,
+body,
+#App,
+.wx-pages {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+.load{
+  width: 60px;
+  height: 60px;
+  background: url(../img/travel.png) no-repeat;
+}
+
+.star{
+  float: left;
+  width: 18px;
+  height: 18px;
+  background: url(../img/star-icon.png) no-repeat;
+}
+
+.open{
+  margin: 0px;
+  width: 32px;
+  height: 32px;
+  background: url(../img/open-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.close{
+  margin: 0px;
+  width: 32px;
+  height: 32px;
+  background: url(../img/close-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.near{
+  margin: 0px;
+  width: 32px;
+  height: 32px;
+  background: url(../img/near-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.hot{
+  width: 32px;
+  height: 32px;
+  background: url(../img/hot-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.count{
+  width: 32px;
+  height: 32px;
+  background: url(../img/count-icont.png) no-repeat;
+  margin: 0px;
+}
+
+.new{
+  width: 32px;
+  height: 32px;
+  background: url(../img/new-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.news{
+  width: 32px;
+  height: 32px;
+  background: url(../img/news-icon.png) no-repeat;
+  margin: 0px;
+}
+
+.heart{
+  width: 32px;
+  height: 32px;
+  background: url(../img/heart.png) no-repeat;
+  margin: 0px;
+}
+
+.mint-tab-item-label{
+  width: 100%;
+  height: 100%;
+}
+
+.mt-tab-item {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+}
+.sider-bar {
+  position: fixed;
+  bottom: 0px;
+}
+
+.navigation{
+  float: left;
+  width: 28px;
+  height: 28px;
+  background: url(../img/navigation.png) no-repeat;
+  margin: 0px;
+}
+
+.mint-tab-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
